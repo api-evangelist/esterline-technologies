@@ -1,4 +1,5 @@
 aid: esterline-technologies
+name: "Esterline Technologies"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
