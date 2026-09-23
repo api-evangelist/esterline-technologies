@@ -1,7 +1,9 @@
 ---
 title: TransDigm to buy aerospace supplier Esterline ...
 url: https://www.airport-technology.com/news/transdigm-buy-aerospace-supplier-esterline-technologies-4bn/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Esterline Technologies" press release artificial intelligence'
 position: 4
 source: serpapi-google

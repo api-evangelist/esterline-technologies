@@ -1,7 +1,9 @@
 ---
 title: TransDigm Completes Acquisition of Esterline Technologies
 url: https://www.prnewswire.com/news-releases/transdigm-completes-acquisition-of-esterline-technologies-300812443.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Esterline Technologies" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Esterline's CMC integrated glass cockpit selected for Peruvian ...
 url: https://skiesmag.com/press-releases/18391-esterline-s-cmc-integrated-glass-cockpit-selected-for-peruvi-html/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Esterline Technologies" press release artificial intelligence'
 position: 2
 source: serpapi-google
